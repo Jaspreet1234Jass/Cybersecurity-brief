@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Cybersecurity Brief</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+<h1>Cybersecurity Brief</h1>
+
+<nav>
+<a href="#home">Home</a>
+<a href="#about">About</a>
+<a href="#threats">Threats</a>
+<a href="#contact">Contact</a>
+</nav>
+
+</header>
+
+<section id="home">
+<h2>Welcome to Cybersecurity Brief</h2>
+<p>Cybersecurity protects computers, networks and data from cyber attacks.</p>
+<button onclick="showMessage()">Learn More</button>
+</section>
+
+<section id="about">
+<h2>About Cybersecurity</h2>
+<p>Cybersecurity helps protect information from hackers, malware and phishing attacks.</p>
+</section>
+
+<section id="threats">
+<h2>Cyber Threats</h2>
+
+<h3>Malware</h3>
+<p>Malware can damage systems and steal data.</p>
+
+<h3>Phishing</h3>
+<p>Phishing tricks users into sharing passwords.</p>
+
+<h3>Network Security</h3>
+<p>Firewalls and antivirus help protect networks.</p>
+
+</section>
+
+<footer id="contact">
+<p>Created by Jaspreet Kaur</p>
+<p>Email: Jassjaspreet78020@gmail.com</p>
+</footer>
+
+<script src="script.js"></script>
+
+</body>
+</html>
